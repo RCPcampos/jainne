@@ -1,0 +1,55 @@
+body{
+    font-family: sans-serif;
+    color: #ffffff;
+    background-color: #ccc;
+}
+
+img{
+    width: 185px;
+    margin-left: -10px;
+    margin-top: 5px;
+    
+}
+
+.cartao{
+    background: linear-gradient(rgb(0, 0, 8), rgb(5, 5, 180));
+    border-radius: 10px;
+    width: 850px;
+    height: 500px;
+    box-shadow: 2px 2px 50px black;
+}
+
+.principal{
+    margin-left: 160px;
+    margin-top: -150px;
+}
+
+.principal h1{
+    font-size: 40pt;
+}
+
+.principal p{
+    font-size: 15pt;
+}
+
+.subtitulo{
+    margin: 0;
+}
+
+.nome{
+    margin-top: 140px;
+    font-size: 25pt;
+}
+.nome, .abaixo{
+    margin-left: 20px;
+}
+.abaixo{
+    font-size: 15pt;
+}
+.perfil{
+    position: absolute;
+    margin-left: 600px;
+    margin-top: -450px;
+    height: 250px;
+    width: 200px;
+}
